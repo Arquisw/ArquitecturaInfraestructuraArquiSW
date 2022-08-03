@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("0.1.2.2.2.2.1.1.1.1.1.3.1", "1", "adaptador", "EARoot/EA1/EA2/EA2/EA2/EA2/EA1/EA1/EA1/EA1/EA1/EA3/EA1/EA269.html", "4.png", "", "", "{96CE70E1-1916-4c9a-852F-9150E3380793}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2.2.2.2.1.1.1.1.1.3.2", "1", "controlador", "EARoot/EA1/EA2/EA2/EA2/EA2/EA1/EA1/EA1/EA1/EA1/EA3/EA2/EA278.html", "4.png", "", "", "{A09BC27B-5C29-4ffb-9EFF-C5BB13AB5A9E}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2.2.2.2.1.1.1.1.1.3.3", "", "Error", "EARoot/EA1/EA2/EA2/EA2/EA2/EA1/EA1/EA1/EA1/EA1/EA3/EA3/EA283.html", "4.png", "", "", "{82BD22B6-A687-4dcb-81F9-768D24619F05}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2.2.2.2.1.1.1.1.1.3.1", "1", "adaptador", "EARoot/EA2/EA2/EA2/EA2/EA2/EA1/EA1/EA1/EA1/EA1/EA3/EA1/EA357.html", "4.png", "", "", "{96CE70E1-1916-4c9a-852F-9150E3380793}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2.2.2.2.1.1.1.1.1.3.2", "1", "controlador", "EARoot/EA2/EA2/EA2/EA2/EA2/EA1/EA1/EA1/EA1/EA1/EA3/EA2/EA366.html", "4.png", "", "", "{A09BC27B-5C29-4ffb-9EFF-C5BB13AB5A9E}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2.2.2.2.1.1.1.1.1.3.3", "", "Error", "EARoot/EA2/EA2/EA2/EA2/EA2/EA1/EA1/EA1/EA1/EA1/EA3/EA3/EA371.html", "4.png", "", "", "{82BD22B6-A687-4dcb-81F9-768D24619F05}", "Package");

@@ -1,2 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.2:1", "", "Modelo de Dominio Enriquecido", "EARoot/EA1/EA1/EA2/EA33.html", "175.png", "3", "0", "", "Logical diagram0","{604EA85A-6B8D-4a1b-AE42-2677294CDE4B}");
-tocTab[tocTab.length] = new Array("0.1.1.2.1", "1", "Entidades", "EARoot/EA1/EA1/EA2/EA1/EA37.html", "4.png", "", "", "{95889A2D-3E86-44d0-BA80-EBEF42AEDF9F}", "Package");

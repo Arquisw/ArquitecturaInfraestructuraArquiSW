@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Entidades::EstadoProyecto</title>
+<title>Negociación de Requisitos</title>
 <link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {	
@@ -34,15 +34,15 @@ function nameClassifier(name, separator)
 <div class="pageHeader"></div>
 <div class="PageBody">
 	<div id="name_classifier" style="display: none;"></div>
-	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("EstadoProyecto", " : "))</script>  : Public   Class</span>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Negociación de Requisitos", " : "))</script>  : Public   Activity</span>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>
-			<td width="85%" class="ObjectDetailsValue">9/11/2021 20:27:14</td>
+			<td width="85%" class="ObjectDetailsValue">7/28/2022 10:22:03 AM</td>
 		</tr>
 		<tr>
 			<td class="ObjectDetailsTopic">Modified:</td>
-			<td class="ObjectDetailsValue">10/11/2021 14:51:24</td>
+			<td class="ObjectDetailsValue">7/28/2022 10:33:12 AM</td>
 		</tr>
 		<tr style="height: 10px"><td colspan="2"></td></tr>
 		<tr>
@@ -87,53 +87,97 @@ function nameClassifier(name, separator)
 		</tr>
 		<tr id="adv00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
-			<td class="ObjectDetailsValue">{4AF977F7-1017-41ac-A1ED-B36AD16CCA25}</td>
+			<td class="ObjectDetailsValue">{EEEAB6B7-1BCA-42cb-ABDE-B6380BD4C551}</td>
 		</tr>
 		<tr id="adv01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
-			<td class="ObjectDetailsValue"><a href="../EA7.html">Modelo de Dominio Anémico</a></td>
+			<td class="ObjectDetailsValue"><a href="../EA7.html">Proceso de Ingenieria de Requisitos</a></td>
 		</tr>
 	</table>
-	<div class="ObjectDetailsNotes">Corresponde al estado en el que se puede encontrar un proyecto a lo largo de la ejecución del mismo. Los cuales pueden ser:&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;<br />&lt;li&gt;En Espera&lt;/li&gt;&lt;li&gt;Aprobado&lt;/li&gt;&lt;li&gt;En Desarrollo&lt;/li&gt;&lt;li&gt;Finalizado&lt;/li&gt;&lt;/ul&gt;&lt;p/&gt;</div>
-
+	
 	<div class="TableGroup" id="TableGroup">
 		<ul class="ItemTitle">
-			<li onClick="parent.toggleItem('AssociationsTo');" id="AssociationsToTitle">Associations To</li>
+			<li onClick="parent.toggleItem('FlowTo');" id="FlowToTitle">Flow To</li>
+			<li onClick="parent.toggleItem('FlowFrom');" id="FlowFromTitle">Flow From</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
 		</ul>
-		<div class="ItemBody" id="AssociationsToTable">
+		<div class="ItemBody" id="FlowToTable">
 			<table border="0" cellspacing="0" cellpadding="0" class="Table">
 				<tr>
-					<td width="40%" class="TableHeading">Element</td>
-					<td width="30%" class="TableHeading">Source Role</td>
-					<td width="30%" class="TableHeading">Target Role</td>
+					<td width="50%" class="TableHeading">Element</td>
+					<td width="50%" class="TableHeading">Name</td>
 				</tr>
 				<tr>
-					<td width="40%" class="TableRow" valign="top">
-						<a href="EA25.html">Proyecto</a><br />
-						Class &nbsp;
+					<td width="50%" class="TableRow" valign="top">
+						<a href="EA20.html">Verificación de Requisitos</a><br />
+						Activity &nbsp;
 					</td>
-					<td width="30%" class="TableRow" valign="top">
-						<strong>Name:</strong> pertenece -><br />
-						&nbsp;
-					</td>
-					<td width="30%" class="TableRow" valign="top">
-						<strong>Name:</strong> <- tiene<br />
-						&nbsp;	
-					</td>
+					<td width="50%" class="TableRow" valign="top">&nbsp;</td>					
 				</tr>
 				<tr>
-					<td class="TableRowBottomDashed"  colspan="3">
-						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink9" onclick="parent.toggleDiv('detailsDIVLink9','DetailsImageLink9')" />Details:
-							<div id="detailsDIVLink9" class="DetailsDiv" >
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow7" onclick="parent.toggleDiv('detailsDIVLinkFlow7', 'DetailsImageLinkFlow7')" />Details:
+							<div id="detailsDIVLinkFlow7" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>				<tr>
+					<td width="50%" class="TableRow" valign="top">
+						<a href="EA23.html">Version Negociada</a><br />
+						Event &nbsp;
+					</td>
+					<td width="50%" class="TableRow" valign="top">&nbsp;</td>					
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow8" onclick="parent.toggleDiv('detailsDIVLinkFlow8', 'DetailsImageLinkFlow8')" />Details:
+							<div id="detailsDIVLinkFlow8" class="DetailsDiv" >
 							&nbsp;
 							</div>
 						</div>
 					</td>
 				</tr>
-
 			</table>
 		</div>
-	</div>
+		<div class="ItemBody" id="FlowFromTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="50%" class="TableHeading">Element</td>
+					<td width="50%" class="TableHeading">Name</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top">
+						<a href="EA12.html">Analisis de Requisitos</a><br />
+						Activity &nbsp;
+					</td>
+					<td width="50%" class="TableRow" valign="top">&nbsp;</td>					
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow9" onclick="parent.toggleDiv('detailsDIVLinkFlow9', 'DetailsImageLinkFlow9')" />Details:
+							<div id="detailsDIVLinkFlow9" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isReadOnly:</td>
+				<td width="70%" class="TableRow">false</td>
+			</tr>
+
+
+			</table>
+		</div>	</div>
 <div class="pageFooter"></div>
  
 </body>

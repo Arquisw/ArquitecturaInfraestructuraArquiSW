@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("0.1.2.1", "1", "Diseño de Alto Nivel", "EARoot/EA1/EA2/EA1/EA62.html", "4.png", "", "", "{20D6E666-0E3A-4cbd-9B35-25316735206B}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2.2", "1", "Diseño de Bajo Nivel", "EARoot/EA1/EA2/EA2/EA154.html", "4.png", "", "", "{99BA237B-DD56-4aed-B76D-7F7EA86B27A6}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2.1", "1", "Diseño de Alto Nivel", "EARoot/EA2/EA2/EA1/EA192.html", "4.png", "", "", "{20D6E666-0E3A-4cbd-9B35-25316735206B}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2.2", "1", "Diseño de Bajo Nivel", "EARoot/EA2/EA2/EA2/EA284.html", "4.png", "", "", "{99BA237B-DD56-4aed-B76D-7F7EA86B27A6}", "Package");
