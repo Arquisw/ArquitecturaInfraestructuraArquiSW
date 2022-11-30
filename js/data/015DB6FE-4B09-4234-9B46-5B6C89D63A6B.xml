@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("0.2.1.1.1.6:1", "", "Usuario", "EARoot/EA2/EA1/EA1/EA1/EA6/EA178.html", "175.png", "42", "0", "", "Logical diagram0","{DEE9417B-F876-41ef-8708-4507293FF52C}");
-tocTab[tocTab.length] = new Array("0.2.1.1.1.6:2", "", "HojaDeVida", "EARoot/EA2/EA1/EA1/EA1/EA6/EA182.html", "5.png", "E681", "0", "", "Class0","{D6ACF00B-732C-4358-8ED1-0B2C02392BE2}");
-tocTab[tocTab.length] = new Array("0.2.1.1.1.6.1", "1", "Elementos", "EARoot/EA2/EA1/EA1/EA1/EA6/EA1/EA183.html", "4.png", "", "", "{F5C95242-99EC-4a78-A217-B0FE9189D795}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.1.1.6:1", "", "Usuario", "EARoot/EA2/EA1/EA1/EA1/EA6/EA143.html", "175.png", "42", "0", "", "Logical diagram0","{DEE9417B-F876-41ef-8708-4507293FF52C}");
+tocTab[tocTab.length] = new Array("0.2.1.1.1.6:2", "", "HojaDeVida", "EARoot/EA2/EA1/EA1/EA1/EA6/EA147.html", "5.png", "E681", "0", "", "Class0","{D6ACF00B-732C-4358-8ED1-0B2C02392BE2}");
+tocTab[tocTab.length] = new Array("0.2.1.1.1.6.1", "1", "Elementos", "EARoot/EA2/EA1/EA1/EA1/EA6/EA1/EA148.html", "4.png", "", "", "{F5C95242-99EC-4a78-A217-B0FE9189D795}", "Package");

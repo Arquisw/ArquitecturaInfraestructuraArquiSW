@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.2.1.2.2.1.1:1", "", "Directivos", "EARoot/EA2/EA2/EA1/EA2/EA2/EA1/EA1/EA266.html", "10.png", "E167", "0", "", "Component0","{F01B2A02-82E7-48b2-8078-89885BE10034}");
-tocTab[tocTab.length] = new Array("0.2.2.1.2.2.1.1:2", "", "Ng Module", "EARoot/EA2/EA2/EA1/EA2/EA2/EA1/EA1/EA269.html", "10.png", "E162", "0", "", "Component0","{BB412AA3-9535-437f-BA2B-23229B56035A}");
-tocTab[tocTab.length] = new Array("0.2.2.1.2.2.1.1:3", "", "Servicios", "EARoot/EA2/EA2/EA1/EA2/EA2/EA1/EA1/EA270.html", "10.png", "E168", "0", "", "Component0","{718EBC15-7176-4019-93A5-B200BB1CF325}");
-tocTab[tocTab.length] = new Array("0.2.2.1.2.2.1.1.1", "1", "Componentes", "EARoot/EA2/EA2/EA1/EA2/EA2/EA1/EA1/EA1/EA271.html", "225.png", "", "", "{B4B54519-6DCA-48bf-BE45-7F74A3894607}", "Package");
-tocTab[tocTab.length] = new Array("0.2.2.1.2.2.1.1.2", "1", "Librerias", "EARoot/EA2/EA2/EA1/EA2/EA2/EA1/EA1/EA2/EA279.html", "225.png", "", "", "{70753F7F-BD4D-41fb-84C1-32CCE875DD89}", "Package");
-tocTab[tocTab.length] = new Array("0.2.2.1.2.2.1.1.3", "1", "Modulos", "EARoot/EA2/EA2/EA1/EA2/EA2/EA1/EA1/EA3/EA281.html", "225.png", "", "", "{411FA10F-DB41-4fd8-9B1A-39D3453EBD55}", "Package");
