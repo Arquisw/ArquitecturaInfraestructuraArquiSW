@@ -1,6 +1,7 @@
-tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1:1", "", "EstadoNecesidad", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA488.html", "5.png", "E900", "0", "", "Class0","{95FB1757-46C8-4d3f-B2C5-033AA01F73CB}");
-tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1:2", "", "EstadoProyecto", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA489.html", "5.png", "E901", "0", "", "Class0","{48A1FAAF-8572-449e-920A-BCF0C43EED3F}");
-tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1:3", "", "Necesidad", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA490.html", "5.png", "E904", "0", "", "Class0","{69081C8F-C9BA-486b-8F73-BA8FA0370CA1}");
-tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1:4", "", "Proyecto", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA491.html", "5.png", "E902", "0", "", "Class0","{62AFDD12-14DC-4741-B85B-A6F9B9CC39E2}");
-tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1:5", "", "TipoConsultoria", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA492.html", "5.png", "E903", "0", "", "Class0","{949E74A8-2DAF-45ba-9823-EDBFDCD475B6}");
-tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1.1", "1", "Dominio", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA1/EA493.html", "4.png", "", "", "{E2AD58F3-9780-4817-BEE5-30A06C616A63}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1:1", "", "AprobacionProyecto", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA491.html", "5.png", "E1213", "0", "", "Class0","{77F600D1-F713-4144-9A92-C5674D783E14}");
+tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1:2", "", "EstadoNecesidad", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA493.html", "5.png", "E900", "0", "", "Class0","{95FB1757-46C8-4d3f-B2C5-033AA01F73CB}");
+tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1:3", "", "EstadoProyecto", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA494.html", "5.png", "E901", "0", "", "Class0","{48A1FAAF-8572-449e-920A-BCF0C43EED3F}");
+tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1:4", "", "Necesidad", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA495.html", "5.png", "E904", "0", "", "Class0","{69081C8F-C9BA-486b-8F73-BA8FA0370CA1}");
+tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1:5", "", "Proyecto", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA496.html", "5.png", "E902", "0", "", "Class0","{62AFDD12-14DC-4741-B85B-A6F9B9CC39E2}");
+tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1:6", "", "TipoConsultoria", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA497.html", "5.png", "E903", "0", "", "Class0","{949E74A8-2DAF-45ba-9823-EDBFDCD475B6}");
+tocTab[tocTab.length] = new Array("0.2.2.2.1.1.1.5.1.1", "1", "Dominio", "EARoot/EA2/EA2/EA2/EA1/EA1/EA1/EA5/EA1/EA1/EA498.html", "4.png", "", "", "{E2AD58F3-9780-4817-BEE5-30A06C616A63}", "Package");

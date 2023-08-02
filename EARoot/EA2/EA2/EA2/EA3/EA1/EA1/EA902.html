@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Elementos::Sistema Operativo</title>
+<title>Cliente</title>
 <link href="../../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {	
@@ -34,11 +34,11 @@ function nameClassifier(name, separator)
 <div class="pageHeader"></div>
 <div class="PageBody">
 	<div id="name_classifier" style="display: none;"></div>
-	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Sistema Operativo", " : "))</script>  : Public  &lt;&lt;OS&gt;&gt; Component</span>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Cliente", " : "))</script>  : Public  &lt;&lt;pc client&gt;&gt; Device</span>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>
-			<td width="85%" class="ObjectDetailsValue">11/29/2022 6:27:45 PM</td>
+			<td width="85%" class="ObjectDetailsValue">11/29/2022 6:27:43 PM</td>
 		</tr>
 		<tr>
 			<td class="ObjectDetailsTopic">Modified:</td>
@@ -87,14 +87,14 @@ function nameClassifier(name, separator)
 		</tr>
 		<tr id="adv00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
-			<td class="ObjectDetailsValue">{2760B47B-2F2C-4ac4-A009-82EDFB5EF0BE}</td>
+			<td class="ObjectDetailsValue">{1D1712E6-2788-4ce0-83A0-7B50D0295ACC}</td>
 		</tr>
 		<tr id="adv01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
-			<td class="ObjectDetailsValue"><a href="../EA884.html">Diagrama de Despliegue</a></td>
+			<td class="ObjectDetailsValue"><a href="../EA893.html">Diagrama de Despliegue</a></td>
 		</tr>
 	</table>
-	<div class="ObjectDetailsNotes">Representa al sistema operativo que se debe ejecutar sobre el dispositivo del cliente. Los sistemas operativos soportados son:&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;<br />&lt;li&gt;Windows&lt;/li&gt;&lt;li&gt;Linux&lt;/li&gt;&lt;li&gt;MacOS&lt;/li&gt;&lt;/ul&gt;&lt;p/&gt;</div>
+	<div class="ObjectDetailsNotes">Nodo que representa a cada uno de los clientes que pueden hacer uso de la aplicacion ArquiSW. Este Nodo representa los equipos de escritorio y/o portatiles, los cuales minimamente deberan contar con las siguientes caracteristicas:&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;<br />&lt;li&gt;Procesador: 1.5 GHZ&lt;/li&gt;&lt;li&gt;Memoria RAM: 1GB&lt;/li&gt;&lt;li&gt;Disco Duro: 50 GB&lt;/li&gt;&lt;li&gt;Tarjeta de Red: 10/100&lt;/li&gt;&lt;/ul&gt;&lt;p/&gt;</div>
 
 	<div class="TableGroup" id="TableGroup">
 		<ul class="ItemTitle">
@@ -107,8 +107,13 @@ function nameClassifier(name, separator)
 					<td width="70%" class="TableHeading">Value</td>
 				</tr>
 			<tr>
-				<td width="30%" class="TableRow">isIndirectlyInstantiated:</td>
-				<td width="70%" class="TableRow">true</td>
+				<td width="30%" class="TableRow">isExecutionEnvironment:</td>
+				<td width="70%" class="TableRow">false</td>
+			</tr>
+
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
 			</tr>
 
 
