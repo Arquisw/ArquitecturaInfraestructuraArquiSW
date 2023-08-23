@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.1.1.1.1:1", "", "«Subsystem» Sistema de Ingeniería de Requisitos", "EARoot/EA2/EA1/EA1/EA1/EA1/EA38.html", "10.png", "E1243", "0", "", "Component0","{79F3DD9A-6474-4f55-9775-E457803CA45C}");
+tocTab[tocTab.length] = new Array("0.2.1.1.1.1:2", "", "«Service» Sistema de SQA/SQC", "EARoot/EA2/EA1/EA1/EA1/EA1/EA39.html", "10.png", "E1244", "0", "", "Component0","{F9CA33B9-D61B-4166-9D4C-E77A297ACB5B}");
+tocTab[tocTab.length] = new Array("0.2.1.1.1.1:3", "", "«Subsystem» Sistema Principal", "EARoot/EA2/EA1/EA1/EA1/EA1/EA40.html", "10.png", "E1242", "0", "", "Component0","{0F6BDFDD-F856-40c6-B251-AE3A414AD0EE}");

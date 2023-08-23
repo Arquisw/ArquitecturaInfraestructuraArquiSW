@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.2.1.4.2.4:1", "", "Diagrama Entidad Relación del Componente Postulacion", "EARoot/EA2/EA1/EA4/EA2/EA4/EA299.html", "175.png", "120", "0", "", "Logical diagram0","{7E14820F-4A63-42be-B925-8C9331179885}");
+tocTab[tocTab.length] = new Array("0.2.1.4.2.4.1", "1", "Dominios", "EARoot/EA2/EA1/EA4/EA2/EA4/EA1/EA303.html", "4.png", "", "", "{E710AC2B-9405-40c2-A1B6-1D105065CA3B}", "Package");
