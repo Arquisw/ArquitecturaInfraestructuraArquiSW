@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.2.1.3.1", "1", "Componentes de la Base de Datos", "EARoot/EA2/EA1/EA3/EA1/EA80.html", "4.png", "", "", "{7AE95520-59E2-4a4d-B601-AE476E300FA2}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.3.2", "1", "Componentes del Backend del Sistema de Ingeniería de Requisitos", "EARoot/EA2/EA1/EA3/EA2/EA102.html", "4.png", "", "", "{EB49F93A-13B5-4f3c-BE7C-AE7B9C53BBED}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.3.3", "1", "Componentes del Backend del Sistema Principal", "EARoot/EA2/EA1/EA3/EA3/EA113.html", "4.png", "", "", "{F2AEEBB8-6DD4-4894-9645-C046ABD4F3F5}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.3.4", "1", "Componentes del Frontend", "EARoot/EA2/EA1/EA3/EA4/EA127.html", "4.png", "", "", "{5ACC342A-DF2C-493e-953D-57DD012A41A6}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.3.1", "1", "Componentes de la Base de Datos", "EARoot/EA2/EA1/EA3/EA1/EA83.html", "4.png", "", "", "{7AE95520-59E2-4a4d-B601-AE476E300FA2}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.3.2", "1", "Componentes del Backend del Sistema de Ingeniería de Requisitos", "EARoot/EA2/EA1/EA3/EA2/EA105.html", "4.png", "", "", "{EB49F93A-13B5-4f3c-BE7C-AE7B9C53BBED}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.3.3", "1", "Componentes del Backend del Sistema Principal", "EARoot/EA2/EA1/EA3/EA3/EA116.html", "4.png", "", "", "{F2AEEBB8-6DD4-4894-9645-C046ABD4F3F5}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.3.4", "1", "Componentes del Frontend", "EARoot/EA2/EA1/EA3/EA4/EA130.html", "4.png", "", "", "{5ACC342A-DF2C-493e-953D-57DD012A41A6}", "Package");
